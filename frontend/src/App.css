@@ -1,0 +1,28 @@
+.carousel-container {
+  width: 100%;
+  height: 80vh;
+  overflow: hidden;
+}
+
+.carousel-inner,
+.carousel-item {
+  width: 100vw;
+  height: 80vh;
+  object-fit: cover;
+  cursor: pointer;
+  overflow: hidden;
+}
+.carousel-img {
+  width: 100vw;
+  height: 80vh;
+  object-fit: cover;
+  cursor: pointer;
+}
+.itempage {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(226, 196, 255);
+}
